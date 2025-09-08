@@ -115,7 +115,7 @@ Proven ability to deploy and scale applications using modern cloud platforms.
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2
+
 
 ---
 
