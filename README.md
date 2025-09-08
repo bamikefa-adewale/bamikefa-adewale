@@ -134,7 +134,7 @@ Proven ability to deploy and scale applications using modern cloud platforms.
 
 ### 📫 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://myportfolio-ten-blue-50.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/bamikefa-adewale)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bamikefa-adewale/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/KING_Bamkem001))  
 📧 **bamikefaadewale@gmail.com**  
 
