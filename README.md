@@ -12,6 +12,63 @@ Skilled in React, Next.js, and TypeScript on the frontend, with solid backend ex
 
 ---
 
+
+
+
+
+## 🚀 Frontend Development  
+I excel in creating **responsive, performant, and visually appealing user interfaces**, leveraging modern frameworks and libraries.  
+
+✔️ **React.js** – Building dynamic and interactive single-page applications  
+✔️ **Next.js** – Crafting server-side rendered React apps for optimal performance  
+✔️ **Tailwind CSS** – Utility-first CSS for rapid UI development  
+✔️ **Headless UI** – Accessible and customizable UI components  
+✔️ **Material UI (MUI)** – Sleek and modern component library  
+✔️ **Bootstrap** – Responsive and mobile-first design framework  
+✔️ **React Icons & Lucide** – Lightweight and customizable SVG icons  
+✔️ **Shadcn UI** – Accessible, customizable component libraries  
+
+💡 Experienced in **state management** (Redux, Zustand) and **data fetching** with React Query + TanStack.  
+💳 Skilled in **payment integrations** (Stripe, PayPal, Paystack), **third-party APIs**, **webhooks**, and automation to streamline business operations.  
+
+---
+
+## ⚙️ Backend Development  
+I specialize in creating **robust, scalable, and secure server-side applications** with modern backend frameworks.  
+
+✔️ **Node.js** – High-performance, event-driven applications  
+✔️ **NestJS** – Scalable and maintainable server-side apps  
+✔️ **Express.js** – Flexible, minimalist backend framework  
+✔️ **RESTful APIs** – Designing standardized endpoints  
+✔️ **GraphQL** – Flexible and efficient API queries  
+✔️ **WebSockets** – Real-time, bidirectional communication  
+
+---
+
+## 🗄️ Database Management  
+Extensive experience designing and managing **relational and NoSQL databases**.  
+
+✔️ **MySQL** – Optimized relational database design  
+✔️ **PostgreSQL** – Advanced, object-relational database system  
+✔️ **MongoDB** – Scalable NoSQL database  
+✔️ **Supabase / Firebase** – Real-time, cloud-hosted PostgreSQL  
+
+🔧 Proficient with ORMs/ODMs: **TypeORM, Mongoose, Sequelize, Entity Framework** for efficient database operations.  
+
+---
+
+## ☁️ Cloud & Deployment  
+Proven ability to deploy and scale applications using modern cloud platforms.  
+
+✔️ **AWS**  
+✔️ **Vercel**  
+✔️ **Render**  
+✔️ **Netlify**  
+✔️ **Docker**  
+✔️ **Heroku**  
+
+---
+
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -37,18 +94,14 @@ Skilled in React, Next.js, and TypeScript on the frontend, with solid backend ex
 ---
 
 ### 💼 Work Highlights
-- **Backend Engineer @ FirstFounders’ Inc (2025 – Present):**  
-  Designed scalable RESTful APIs, secure auth (JWT/OAuth2), real-time features (WebSockets), background jobs with BullMQ/Redis, and CI/CD pipelines.  
 
-- **Software Engineer @ MyVamsNet (2024 – Present):**  
-  Delivered **MTrackr, Skirral, FMX** (SaaS, marketplace, e-commerce). Integrated payments (Paystack/Stripe), built modular backends, and collaborated on UI/UX improvements.  
 
 ---
 
 ### 📫 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://myportfolio-ten-blue-50.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/bamikefa-adewale)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/KING_Bamkem001))  
 📧 **bamikefaadewale@gmail.com**  
 
 ---
