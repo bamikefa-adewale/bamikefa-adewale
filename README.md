@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 Innovative Full-Stack Developer with expertise in **frontend design** and **backend architecture**.  
-Skilled in React, Next.js, and TypeScript on the frontend, with solid backend experience in **NestJS, PostgreSQL, and TypeORM**.  
+Skilled in React, Next.js, and TypeScript on the frontend, with solid backend experience in **NestJS, PostgreSQL, and ORM**.  
 
 💡 Passionate about building **scalable, maintainable applications** with strong focus on **user experience, APIs, and real-time features**.  
 ⚡ Experienced in integrating secure authentication, payment gateways, and asynchronous workflows.  
